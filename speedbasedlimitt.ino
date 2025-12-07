@@ -7,8 +7,8 @@
 #include <PubSubClient.h>
 
 // --- AYARLAR (Lütfen Doldurun) ---
-const char* ssid = "FiberHGW_ZY88A5";       
-const char* password = "XLyJVUNm4qE3";         
+const char* ssid = "YourWİFİ";       
+const char* password = "Yourpassword";         
 const char* mqtt_server = "broker.hivemq.com"; 
 
 // Joystick Ayarları
