@@ -7,7 +7,7 @@
 #include <PubSubClient.h>
 
 // --- AYARLAR (Lütfen Doldurun) ---
-const char* ssid = "YourWİFİ";       
+const char* ssid = "YourWifi";       
 const char* password = "Yourpassword";         
 const char* mqtt_server = "broker.hivemq.com"; 
 
